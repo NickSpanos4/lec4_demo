@@ -3,3 +3,8 @@
 
 # Ada Library Information
 *.ali
+
+
+#exclude all .jpeg and .jpg
+*.jpeg
+*.jpg
